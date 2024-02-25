@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTruss.HtmlBuilder", "WebTruss.HtmlBuilder\WebTruss.HtmlBuilder.csproj", "{0681DDFB-0AEE-45D3-BB0A-9099548EEA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTruss.HtmlBuilder.Tests", "WebTruss.HtmlBuilder.Tests\WebTruss.HtmlBuilder.Tests.csproj", "{72DD1697-C0AA-41C1-9922-1CCE65186D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0681DDFB-0AEE-45D3-BB0A-9099548EEA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0681DDFB-0AEE-45D3-BB0A-9099548EEA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0681DDFB-0AEE-45D3-BB0A-9099548EEA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0681DDFB-0AEE-45D3-BB0A-9099548EEA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DD1697-C0AA-41C1-9922-1CCE65186D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DD1697-C0AA-41C1-9922-1CCE65186D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DD1697-C0AA-41C1-9922-1CCE65186D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DD1697-C0AA-41C1-9922-1CCE65186D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45BABB87-6DC9-4E8C-B942-6B98257864C3}
+	EndGlobalSection
+EndGlobal

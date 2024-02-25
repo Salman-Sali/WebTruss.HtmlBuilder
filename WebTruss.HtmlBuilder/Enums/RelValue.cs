@@ -1,0 +1,34 @@
+﻿namespace WebTruss.HtmlBuilder.Enums
+{
+    public enum RelValue
+    {
+        alternate,
+        author,
+        bookmark,
+        canonical,
+        dn,
+        external,
+        help,
+        icon,
+        license,
+        manifest,
+        me,
+        modulepreload,
+        next,
+        nofollow,
+        noopener,
+        noreferrer,
+        opener,
+        pingback,
+        preconnect,
+        prefetch,
+        preload,
+        prerender,
+        prev,
+        privacy_policy,
+        search,
+        stylesheet,
+        tag,
+        terms_of_service
+    }
+}
